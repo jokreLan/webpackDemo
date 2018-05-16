@@ -1,0 +1,12 @@
+{
+  "name": "webpackdemo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle1.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
