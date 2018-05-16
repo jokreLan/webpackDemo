@@ -1,0 +1,11 @@
+{
+  "name": "webpackdemo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open"
+  },
+  "author": "",
+  "license": "ISC"
+}
