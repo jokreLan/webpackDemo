@@ -1,4 +1,4 @@
 这个demo是一个简单的webpack示例集.
 
-These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn the powerful tool.
+这个demo是超级简单明了的，为了方便我学习webpack的强大工具能力，逐步提升难度，也希望能帮助到帮助到正在学习的你.
 
