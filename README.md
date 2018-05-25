@@ -7,4 +7,6 @@ How to use
 
 首先,全局安装webpack 和 webpack-server
 
+```
 $ npm i -g webpack webpack-dev-server
+```
